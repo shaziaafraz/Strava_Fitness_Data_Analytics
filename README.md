@@ -68,11 +68,10 @@ visuals:
 📈 Power BI Dashboard
 
 An interactive dashboard  created with 10+ visualizations, :
-<img width="879" height="495" alt="image" src="https://github.com/user-attachments/assets/3f541801-383e-4e93-be9f-a12857ab94e7" />
+
 <img width="780" height="445" alt="image" src="https://github.com/user-attachments/assets/0cd6038e-65e5-41d0-a9c9-ebceaa9e9200" />
 <img width="769" height="459" alt="image" src="https://github.com/user-attachments/assets/90c86650-a72a-46bc-86fa-85eb82fa2ad0" />
 <img width="772" height="445" alt="image" src="https://github.com/user-attachments/assets/56fd62e7-2e8f-47a1-8d00-0728a6f3b5b8" />
-<img width="780" height="455" alt="image" src="https://github.com/user-attachments/assets/59557195-113f-45a6-8cd6-a7f048847e5a" />
 
 🔑 Insights
 
